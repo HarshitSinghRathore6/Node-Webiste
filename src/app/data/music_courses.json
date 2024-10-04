@@ -1,0 +1,84 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Beginner Guitar Course",
+      "slug": "beginner-guitar-course",
+      "description": "Learn the basics of guitar playing, including chords, strumming, and beginner songs.",
+      "price": 49.99,
+      "instructor": "John Smith",
+      "isFeatured": true,
+      "image": "guitar_course_image.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Advanced Piano Techniques",
+      "slug": "advanced-piano-techniques",
+      "description": "Master advanced piano techniques like arpeggios, scales, and improvisation.",
+      "price": 79.99,
+      "instructor": "Emily Johnson",
+      "isFeatured": false,
+      "image": "piano_course_image.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Flute for Beginners",
+      "slug": "flute-for-beginners",
+      "description": "Start your flute journey with this beginner course covering notes, scales, and simple melodies.",
+      "price": 45.99,
+      "instructor": "Michael Brown",
+      "isFeatured": true,
+      "image": "flute_course_image.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Intermediate Violin Skills",
+      "slug": "intermediate-violin-skills",
+      "description": "Enhance your violin playing with intermediate level skills, including vibrato and shifting.",
+      "price": 59.99,
+      "instructor": "Rachel Green",
+      "isFeatured": false,
+      "image": "violin_course_image.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Drums: Rhythm and Groove",
+      "slug": "drums-rhythm-groove",
+      "description": "Learn the essential rhythm patterns and grooves for drumming in various styles.",
+      "price": 69.99,
+      "instructor": "Chris Lee",
+      "isFeatured": true,
+      "image": "drums_course_image.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Jazz Guitar Improvisation",
+      "slug": "jazz-guitar-improvisation",
+      "description": "Learn to improvise jazz solos and master the art of creative expression on the guitar.",
+      "price": 89.99,
+      "instructor": "Anna Stevens",
+      "isFeatured": true,
+      "image": "jazz_guitar_course_image.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Music Theory for Beginners",
+      "slug": "music-theory-for-beginners",
+      "description": "Understand the basics of music theory including notes, scales, and chords for any instrument.",
+      "price": 39.99,
+      "instructor": "David Clark",
+      "isFeatured": true,
+      "image": "music_theory_course_image.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Songwriting Essentials",
+      "slug": "songwriting-essentials",
+      "description": "Learn the fundamentals of writing your own songs, including structure, melody, and lyrics.",
+      "price": 59.99,
+      "instructor": "Laura Wright",
+      "isFeatured": true,
+      "image": "songwriting_course_image.jpg"
+    }
+  ]
+}
