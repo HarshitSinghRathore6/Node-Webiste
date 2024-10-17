@@ -34,7 +34,7 @@ function Navbar({ className }: { className?: string }){
                 </MenuItem>
             </Link>
 
-            <Link href='http://localhost:3001/login'>
+            <Link href='/'>
                 <MenuItem setActive={setActive} active={active} item="Logout">
                 
                 </MenuItem>
