@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 "use client";
 import { cn } from "@/app/utils/cn";
 import React, { useEffect, useRef, useState } from "react";
@@ -97,7 +98,7 @@ export const WavyBackground = ({
     return () => {
       cancelAnimationFrame(animationId);
     };
-  }, []);
+  });
 
   const [isSafari, setIsSafari] = useState(false);
   useEffect(() => {

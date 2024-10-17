@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
 "use client";
 import React, { useState, useEffect, } from "react";
 
@@ -54,7 +55,7 @@ export function HoverBorderGradient({
       }, duration * 1000);
       return () => clearInterval(interval);
     }
-  }, [hovered]);
+  });
   return (
     <Tag
       onMouseEnter={(event: React.MouseEvent<HTMLDivElement>) => {
